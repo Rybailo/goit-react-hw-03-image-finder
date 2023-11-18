@@ -1,7 +1,7 @@
 import React from 'react';
 import { Blocks } from 'react-loader-spinner';
 
-const Loader = () => {
+export const Loader = () => {
   return (
     <Blocks
       visible={true}
@@ -13,5 +13,3 @@ const Loader = () => {
     />
   );
 };
-
-export default Loader;
