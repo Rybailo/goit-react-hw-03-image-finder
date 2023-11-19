@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/github.com/Rybailo/goit-react-hw-03-image-finder/static/css/main.0846917c.css",
-    "main.js": "/github.com/Rybailo/goit-react-hw-03-image-finder/static/js/main.c20d55c8.js",
-    "index.html": "/github.com/Rybailo/goit-react-hw-03-image-finder/index.html",
-    "main.0846917c.css.map": "/github.com/Rybailo/goit-react-hw-03-image-finder/static/css/main.0846917c.css.map",
-    "main.c20d55c8.js.map": "/github.com/Rybailo/goit-react-hw-03-image-finder/static/js/main.c20d55c8.js.map"
+    "main.css": "/rybailo.github.io/goit-react-hw-03-image-finder/static/css/main.0846917c.css",
+    "main.js": "/rybailo.github.io/goit-react-hw-03-image-finder/static/js/main.f8413da4.js",
+    "index.html": "/rybailo.github.io/goit-react-hw-03-image-finder/index.html",
+    "main.0846917c.css.map": "/rybailo.github.io/goit-react-hw-03-image-finder/static/css/main.0846917c.css.map",
+    "main.f8413da4.js.map": "/rybailo.github.io/goit-react-hw-03-image-finder/static/js/main.f8413da4.js.map"
   },
   "entrypoints": [
     "static/css/main.0846917c.css",
-    "static/js/main.c20d55c8.js"
+    "static/js/main.f8413da4.js"
   ]
 }
